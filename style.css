@@ -2,7 +2,10 @@
     margin:  0;
     padding:  0;
 }
-
+body{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+}
 .cabecalho {
     background-color: #ef272794;
     color: white;
@@ -40,4 +43,8 @@
 }
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 300px;
 }
